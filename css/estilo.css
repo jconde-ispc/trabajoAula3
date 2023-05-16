@@ -1,0 +1,16 @@
+h1, h2, h3 {
+    color: darkorchid ;
+}
+
+#valorid{
+    color:red;
+}
+
+.clase1{
+    color:brown;
+}
+
+.clase2{
+    font-size: 200%;
+}
+
